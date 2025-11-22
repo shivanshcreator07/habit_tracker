@@ -1,0 +1,11 @@
+{
+  "habits": {
+    "WALK": {
+      "target": 20
+    },
+    "STUDY": {
+      "target": 4
+    }
+  },
+  "logs": []
+}
